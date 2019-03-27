@@ -717,8 +717,10 @@
 			margin-left: 0;
 
 			li {
+				line-height: 100px;
 				&:first-child {
 					padding-left: 0;
+					
 				}
 			}
 		}
